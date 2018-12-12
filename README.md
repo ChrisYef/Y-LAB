@@ -166,7 +166,7 @@ To exit the system, the user only needs to close the application and provides a 
 
 ### User interface
 
-#### Index Screen
+- __Index Screen__
 
 ![Index Screen](/screenshots/image2.png)
 
@@ -180,7 +180,7 @@ To exit the system, the user only needs to close the application and provides a 
 8. __GPU use:__ to speed up the object detection process, your GPU will be used. You can specify how much GPU should be used for the program. **_WARNING:_** setting it to the max may cause other programs to crash.
 9. __Object filter:__ you can filter out which objects should be detected from the video. 
 
-#### Index Screen \(file chosen\)
+- __Index Screen__ \(file chosen\)
 
 ![Index Screen (file chosen)](/screenshots/image6.png)
 
@@ -188,14 +188,14 @@ To exit the system, the user only needs to close the application and provides a 
 2. __‘Save options’:__ You can save the configuration you made to an external .json file.
 3. __Video controls:__ you can preview the video you have chosen and control with the usual video controls.
 
-#### Processing Screen
+- __Processing Screen__
 
 ![Processing Screen](/screenshots/image5.png)
 
 1. __‘Continue’__: if the process is done, press this to move on to view the results.
 2. __‘Cancel’__: cancel the process at any time.
 
-#### Result Screen
+- __Result Screen__
 
 ![Result Screen](/screenshots/image4.png)
 
