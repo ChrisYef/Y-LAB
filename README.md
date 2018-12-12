@@ -168,7 +168,7 @@ To exit the system, the user only needs to close the application and provides a 
 
 #### Index Screen
 
-![Index Screen](image2.png)
+![Index Screen](https://raw.githubusercontent.com/Y-LAB/upload/master/screenshots/image2.png)
 
 1. __File path:__ this will show the file path of the video you chose. You can choose a video by clicking the ‘Browse’ button
 2. __Object detection type:__ you can either choose the default object detection, or traffic detection.
@@ -182,7 +182,7 @@ To exit the system, the user only needs to close the application and provides a 
 
 #### Index Screen \(file chosen\)
 
-![Index Screen (file chosen)](image6.png)
+![Index Screen (file chosen)](https://raw.githubusercontent.com/Y-LAB/upload/master/screenshots/image6.png)
 
 1. __‘Looks good!’:__ Once everything is done, you can press this button for the video to be processed.
 2. __‘Save options’:__ You can save the configuration you made to an external .json file.
@@ -190,14 +190,14 @@ To exit the system, the user only needs to close the application and provides a 
 
 #### Processing Screen
 
-![Processing Screen](image5.png)
+![Processing Screen](https://raw.githubusercontent.com/Y-LAB/upload/master/screenshots/image5.png)
 
 1. __‘Continue’__: if the process is done, press this to move on to view the results.
 2. __‘Cancel’__: cancel the process at any time.
 
 #### Result Screen
 
-![Result Screen](image4.png)
+![Result Screen](https://raw.githubusercontent.com/Y-LAB/upload/master/screenshots/image4.png)
 
 1. __Result:__ shows the results processed from the video.
 2. __Video details:__ shows the details of the result video.
