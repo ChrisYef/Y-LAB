@@ -30,7 +30,7 @@ bash [Anaconda-latest-Linux-x86_64.sh]
 
 #### Setting Up a Conda Environment
 
-1.Create a new Conda environment by typing:
+1. Create a new Conda environment by typing:
 ```sh
 # in the Anaconda Prompt, where [env_name] is the name of the specified environment
 conda create -n [env_name] python=3.5
@@ -55,7 +55,7 @@ pip install numpy
 ```sh
 pip install pandas
 ```
-3. Install __Cython__ by typing:
+3. Install __cython__ by typing:
 ```sh
 pip install cython
 ```
@@ -70,11 +70,10 @@ pip install opencv\-python
 ```sh
 python \-m pip install tensorflow
 ```
-Alternatively, run:
+Alternatively to install the GPU package which requires a [CUDA®-enabled GPU card](https://www.tensorflow.org/install/gpu), run:
 ```sh
 python \-m pip install tensorflow\-gpu
 ```
-to install the GPU package which requires a [CUDA®-enabled GPU card](https://www.tensorflow.org/install/gpu)
 
 #### Setting Up Git
 
@@ -213,21 +212,26 @@ To exit the system, the user only needs to close the application and provides a 
 
 </br>
 
-### Vehicle Counting
+### Functionalities
 
-Introduces a vehicle-counting mode where the number of vehicles which passes a counting line is tracked and counted.
+#### Detect objects from video
 
-</br>
+This function enables users to detect objects from video.
 
-### Region of Interest
+![Index Screen](/screenshots/image2.png)
+__Step 1:__ Click on ‘browse’ button (1) to choose a video
+__Step 1a (optional):__ If desired, customize the settings (4-9) for the object detection engine.
 
-Define a customized region of interest where object detection takes place.
+![Index Screen](/screenshots/image6.png)
+__Step 2:__ Press ‘looks good’ (1) to start the object detection process. Press ‘go!’ on the confirmation dialog.
+__Step 3:__ A process screen like below should appear. Wait until the progress bar is full.
 
-</br>
+![Index Screen](/screenshots/image5.png)
+__Step 4:__ Once it’s done, press the ‘continue’ button (1).
 
-### Video Player
+![Index Screen](/screenshots/image4.png)
+__Step 5:__ A result screen like the image above should appear. If you wish to restart the process, press ‘try again’ (3) and repeat from step 1.
 
-Plays back processed videos immediately in the in-built player.
 
 </br>
 
