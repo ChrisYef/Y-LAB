@@ -77,7 +77,7 @@ python \-m pip install tensorflow\-gpu
 
 #### Setting Up Git
 
-1. In Windows, install Git by downloading git, and double-clicking on the downloaded file. In Linux, install Git by typing:
+1. In Windows, install Git by downloading [git](https://git-scm.com/download/win), and double-clicking on the downloaded file. In Linux, install Git by typing:
 ```sh
 # in the terminal window
 apt-get install git
@@ -220,10 +220,12 @@ This function enables users to detect objects from video.
 
 ![Index Screen](/screenshots/image2.png)
 __Step 1:__ Click on ‘browse’ button (1) to choose a video
+</br>
 __Step 1a (optional):__ If desired, customize the settings (4-9) for the object detection engine.
 
 ![Index Screen](/screenshots/image6.png)
 __Step 2:__ Press ‘looks good’ (1) to start the object detection process. Press ‘go!’ on the confirmation dialog.
+</br>
 __Step 3:__ A process screen like below should appear. Wait until the progress bar is full.
 
 ![Index Screen](/screenshots/image5.png)
