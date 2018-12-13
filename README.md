@@ -223,15 +223,15 @@ __Step 1:__ Click on ‘browse’ button (1) to choose a video
 </br>
 __Step 1a (optional):__ If desired, customize the settings (4-9) for the object detection engine.
 
-![Index Screen](/screenshots/image6.png)
+![Index Screen (file chosen)](/screenshots/image6.png)
 __Step 2:__ Press ‘looks good’ (1) to start the object detection process. Press ‘go!’ on the confirmation dialog.
 </br>
 __Step 3:__ A process screen like below should appear. Wait until the progress bar is full.
 
-![Index Screen](/screenshots/image5.png)
+![Processing Screen](/screenshots/image5.png)
 __Step 4:__ Once it’s done, press the ‘continue’ button (1).
 
-![Index Screen](/screenshots/image4.png)
+![Result Screen](/screenshots/image4.png)
 __Step 5:__ A result screen like the image above should appear. If you wish to restart the process, press ‘try again’ (3) and repeat from step 1.
 
 
